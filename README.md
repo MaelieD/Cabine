@@ -16,7 +16,7 @@ Le fichier gardé est un WAV mono 44,1 kHz, 24 bits, un par chapitre. Cabine exp
 
 ## Télécharger
 
-Les installeurs ne sont pas encore publiés. Ils arriveront sur la [page Releases](https://github.com/MaelieD/Cabine/releases). Chaque release contiendra :
+Ils arriveront sur la [page Releases](https://github.com/MaelieD/Cabine/releases). Chaque release contiendra :
 
 | Système | Fichier | Version minimale |
 | --- | --- | --- |
