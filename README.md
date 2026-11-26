@@ -16,7 +16,7 @@ Le fichier gardé est un WAV mono 44,1 kHz, 24 bits, un par chapitre. Cabine exp
 
 ## Télécharger
 
-Les installeurs sont sur la page Releases [page Releases](https://github.com/MaelieD/Cabine/releases). Chaque release contiendra :
+Les installeurs sont sur la [page Releases](https://github.com/MaelieD/Cabine/releases).
 
 | Système | Fichier | Version minimale |
 | --- | --- | --- |
@@ -24,7 +24,7 @@ Les installeurs sont sur la page Releases [page Releases](https://github.com/Mae
 | macOS Intel | `Cabine_x.y.z_x64.dmg` | macOS 12 |
 | Windows 64 bits | `Cabine_x.y.z_x64-setup.exe` | Windows 10 |
 
-Les sommes SHA-256 seront publiées à côté des fichiers. On vérifie la somme avant d’ouvrir l’installeur.
+Les sommes SHA-256 sont publiées à côté des fichiers. On vérifie la somme avant d’ouvrir l’installeur.
 
 Premier lancement :
 
