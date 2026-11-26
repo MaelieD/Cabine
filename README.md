@@ -33,11 +33,9 @@ Premier lancement :
 
 ## État
 
-La v1 est dans ce dépôt : séance au clavier, moteur audio Rust, interface React. On la lance depuis le code source avec les commandes ci-dessus. La prise est le micro, sans filtre. Le retour casque se coupe pendant l’enregistrement.
+La v1 couvre la séance au clavier : prise au micro, sans filtre, retour casque coupé pendant l'enregistrement, montage, puis export. Les installeurs ne sont pas encore en ligne.
 
-L’export propose le WAV maître, le FLAC (Findaway Voices) et le MP3 192 kbit/s constant (ACX et Audible), plus le CSV des repères. La finition (v1.1 : RMS, limiteur, ambiance) et la transcription (v1.2) sont spécifiées, pas encore construites.
-
-Le comportement, les raccourcis et le format des fichiers sont décrits dans [docs/SPECIFICATION.md](docs/SPECIFICATION.md).
+L'export propose le WAV maître, le FLAC (Findaway Voices) et le MP3 192 kbit/s constant (ACX et Audible), plus le CSV des repères. La finition (v1.1 : RMS, limiteur, ambiance) et la transcription (v1.2) ne sont pas encore construites.
 
 ## Licence
 
