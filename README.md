@@ -5,6 +5,8 @@ L’enregistrement et le montage se font dans le même geste. Entrée insère un
 
 Le fichier gardé est un WAV mono 44,1 kHz, 24 bits, un par chapitre. Cabine exporte aussi le FLAC correspondant, et le MP3 à débit constant 192 kbit/s qu’ACX et Audible demandent.
 
+Cabine reste le même outil pour tout le monde. Un merci ou un soutien se fait sur [GitHub Sponsors](https://github.com/sponsors/MaelieD).
+
 ## Le geste, en une minute
 
 1. Le micro est écouté en permanence (vu-mètre), mais **rien n’est écrit tant qu’on n’a pas appuyé sur Entrée**.
