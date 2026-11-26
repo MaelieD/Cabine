@@ -16,7 +16,7 @@ Le fichier gardé est un WAV mono 44,1 kHz, 24 bits, un par chapitre. Cabine exp
 
 ## Télécharger
 
-Ils arriveront sur la [page Releases](https://github.com/MaelieD/Cabine/releases). Chaque release contiendra :
+Les installeurs sont sur la page Releases [page Releases](https://github.com/MaelieD/Cabine/releases). Chaque release contiendra :
 
 | Système | Fichier | Version minimale |
 | --- | --- | --- |
@@ -33,7 +33,7 @@ Premier lancement :
 
 ## État
 
-La v1 couvre la séance au clavier : prise au micro, sans filtre, retour casque coupé pendant l'enregistrement, montage, puis export. Les installeurs ne sont pas encore en ligne.
+La v1 couvre la séance au clavier : prise au micro, sans filtre, retour casque coupé pendant l'enregistrement, montage, puis export.
 
 L'export propose le WAV maître, le FLAC (Findaway Voices) et le MP3 192 kbit/s constant (ACX et Audible), plus le CSV des repères. La finition (v1.1 : RMS, limiteur, ambiance) et la transcription (v1.2) ne sont pas encore construites.
 
